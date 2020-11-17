@@ -1,4 +1,5 @@
 # Wine-Quality-Analysis-Prediction
+![image.jpg](https://www.langhouse.com/wp-content/uploads/2018/01/wine-pouring-slide.jpg)
 Here with the help of python libraries and ML algorithm, I am analyzing and predicting the type and quality of the wine presented to us with the data.
 I have used all the necessary python libraries like:
 ### For basic funtionality-
